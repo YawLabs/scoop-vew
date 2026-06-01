@@ -25,6 +25,9 @@
             "vew"
         ]
     ],
+    "pre_uninstall": [
+        "if (Test-Path \"$dir\\vew.exe\") { Start-Process -FilePath \"$dir\\vew.exe\" -ArgumentList '--unregister-browser' -Wait }"
+    ],
     "checkver": {
         "url": "https://vew.sh/version-windows.json",
         "jsonpath": "$.version"
