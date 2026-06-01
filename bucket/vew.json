@@ -16,6 +16,9 @@
             "hash": "8ef91757ced98626ac0504824dfc9c586df743e363d8934d09aaa0ce212dcefd"
         }
     },
+    "bin": [
+        "vew.cmd"
+    ],
     "shortcuts": [
         [
             "vew.exe",
