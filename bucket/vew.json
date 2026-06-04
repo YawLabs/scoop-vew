@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://downloads.vew.sh/vew-win32-x64-0.4.3.zip",
-            "hash": "3ec42cf2b329805166be94a8e1054812f4c1dee50eff765189064543ea3bead0"
+            "hash": "264641dffeba03c2b9486a8150ed812f7f81a2f157f48d21caaefad3268e3b13"
         },
         "arm64": {
             "url": "https://downloads.vew.sh/vew-win32-arm64-0.4.3.zip",
