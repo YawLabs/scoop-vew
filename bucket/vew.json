@@ -13,7 +13,7 @@
         },
         "arm64": {
             "url": "https://downloads.vew.sh/vew-win32-arm64-0.8.3.zip",
-            "hash": "9185a4b84b7a2e2a4b18aea32f337466928be295feb2d499a0aea1ff61e2769d"
+            "hash": "f5d8885b923db35274bef3e3d2fb95de2cdd8126f89b6ef948c1edf42bb0c591"
         }
     },
     "bin": [
