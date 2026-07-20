@@ -1,5 +1,5 @@
 {
-    "version": "0.9.8",
+    "version": "0.9.9",
     "description": "vew -- a browser, with an agent built in.",
     "homepage": "https://vew.sh",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloads.vew.sh/vew-win32-x64-0.9.8.zip",
-            "hash": "a0a1e94709f286bbae470bf88e33205fa2dff73e5c85acb64c6ae1f68963e30f"
+            "url": "https://downloads.vew.sh/vew-win32-x64-0.9.9.zip",
+            "hash": "e78cb73f27ad1b36cb7cf8b7befa8fc9e61ab8e010c932d72b34a3f33f6e5326"
         },
         "arm64": {
-            "url": "https://downloads.vew.sh/vew-win32-arm64-0.9.8.zip",
-            "hash": "80f29b25af05160b5918ff1954e5e461770ebcaa9cc3ecba811899dcafcd4f42"
+            "url": "https://downloads.vew.sh/vew-win32-arm64-0.9.9.zip",
+            "hash": "99ee501cf6b23105821963c96f0baed540d6d20637eb149dc4b477a286b75edc"
         }
     },
     "bin": [
